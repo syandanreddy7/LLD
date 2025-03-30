@@ -9,41 +9,41 @@ public class Student implements Prototype<Student>{
     private double psp;
 
 
-    public String getName() {
-        return name;
-    }
+//    public String getName() {
+//        return name;
+//    }
 
     public void setName(String name) {
         this.name = name;
     }
 
-    public int getAge() {
-        return age;
-    }
+//    public int getAge() {
+//        return age;
+//    }
 
     public void setAge(int age) {
         this.age = age;
     }
 
-    public String getBatch() {
-        return batch;
-    }
+//    public String getBatch() {
+//        return batch;
+//    }
 
     public void setBatch(String batch) {
         this.batch = batch;
     }
 
-    public double getAvgBatchPSP() {
-        return avgBatchPSP;
-    }
+//    public double getAvgBatchPSP() {
+//        return avgBatchPSP;
+//    }
 
     public void setAvgBatchPSP(double avgBatchPSP) {
         this.avgBatchPSP = avgBatchPSP;
     }
 
-    public double getPsp() {
-        return psp;
-    }
+//    public double getPsp() {
+//        return psp;
+//    }
 
     public void setPsp(double psp) {
         this.psp = psp;
